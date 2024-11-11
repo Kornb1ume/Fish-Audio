@@ -1,0 +1,53 @@
+[
+  {
+    "type": "card",
+    "theme": "secondary",
+    "color": "#00BFFF",
+    "size": "lg",
+    "modules": [
+      {
+        "type": "header",
+        "text": {
+          "type": "plain-text",
+          "content": "MILLENNIUM：HELP_LIST"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "text": {
+          "type": "kmarkdown",
+          "content": "输入(font)/yuuka (font)[pink]以进行用户聊天"
+        }
+      },
+      {
+        "type": "section",
+        "text": {
+          "type": "kmarkdown",
+          "content": "输入(font)/yuuka pub(font)[pink]以进行公共聊天"
+        }
+      },
+      {
+        "type": " collection",
+        "text": {
+          "type": "kmarkdown",
+          "content": "(font)/yuuka pub(font)type sth asshole"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "context",
+        "elements": [
+          {
+            "type": "plain-text",
+            "content": "MILLENNIUM_TECH"
+          }
+        ]
+      }
+    ]
+  }
+]

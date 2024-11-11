@@ -1,0 +1,171 @@
+[
+  {
+    "type": "card",
+    "size": "lg",
+    "theme": "warning",
+    "modules": [
+      {
+        "type": "header",
+        "text": {
+          "type": "plain-text",
+          "content": "炙热沙城_2024_5_11_15:14比赛回顾"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "accessory": {},
+        "text": {
+          "type": "paragraph",
+          "cols": 3,
+          "fields": [
+            {
+              "type": "kmarkdown",
+              "content": "**总比分**"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "**上半场**"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "**下半场**"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "16:12"
+            },
+            {
+              "type": "kmarkdown",
+              "content": " 6:3"
+            },
+            {
+              "type": "kmarkdown",
+              "content": " 7:6"
+            }
+          ]
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "header",
+        "text": {
+          "type": "plain-text",
+          "content": "我方队伍战绩"
+        }
+      },
+      {
+        "type": "section",
+        "accessory": {},
+        "text": {
+          "type": "paragraph",
+          "cols": 3,
+          "fields": [
+            {
+              "type": "kmarkdown",
+              "content": "**  昵称**"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "** K-D**"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "**Rating**"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "USS_Enterprise CV-6"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "29-10"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "1.83"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "北站top"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "23-17"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "1.33"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "走马啸西风"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "21-18"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "1.19"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "不讲武德坤"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "12-15"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "1"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "武汉m0nesy"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "11-14"
+            },
+            {
+              "type": "kmarkdown",
+              "content": "0.78"
+            }
+          ]
+        }
+      },
+      {
+        "type": "context",
+        "elements": [
+          {
+            "type": "plain-text",
+            "content": "本场MVP是："
+          },
+          {
+            "type": "image",
+            "src": "https://img1.baidu.com/it/u=3207204980,1797112982&fm=253&fmt=auto&app=138&f=JPEG?w=342&h=431",
+            "alt": "",
+            "size": "lg",
+            "circle": true
+          },
+          {
+            "type": "kmarkdown",
+            "content": "**USS_Enterprise CV-6**"
+          }
+        ]
+      },
+      {
+        "type": "audio",
+        "title": "登↗登↘登↗登↘",
+        "src": "https://img.kaiheila.cn/attachments/2021-01/21/600975671b9ab.mp3",
+        "cover": "https://img.kaiheila.cn/assets/2021-01/rcdqa8fAOO0hs0mc.jpg"
+      }
+    ]
+  }
+]
